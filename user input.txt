@@ -1,0 +1,3 @@
+Starlight Cafe
+frappe,cappuccino,latte,espresso,drip coffee,chai-tea
+200,180,190,220,280,140
